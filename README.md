@@ -7,7 +7,7 @@ edited on update branch
 changing in github repository.
 Now edited some thing in update-readme
 
-<<<<<<< HEAD
+HEAD
 
 ## Purpose
 
