@@ -16,4 +16,6 @@ HEAD
 
 ## Purpose
 
+Geting started section
+
 # This file is just a readme file.
